@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>cn.robustsoft</groupId>
-    <artifactId>docker-simple-web-demo</artifactId>
+    <artifactId>docker-web-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>docker-simple-web-demo</name>
+    <name>docker-web-demo</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
